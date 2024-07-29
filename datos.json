@@ -1,0 +1,26 @@
+[
+    {
+        "codigo_producto": "000555",
+        "nombre_producto": "PC GAMER",
+        "inventario_producto": 15,
+        "precio_producto": 5400000.0
+    },
+    {
+        "codigo_producto": "000102",
+        "nombre_producto": "LAPTOP LINUX",
+        "inventario_producto": 10,
+        "precio_producto": 3200000.0
+    },
+    {
+        "codigo_producto": "000082",
+        "nombre_producto": "FLIPPER ZERO",
+        "inventario_producto": 4,
+        "precio_producto": 550000.0
+    },
+    {
+        "codigo_producto": "000048",
+        "nombre_producto": "RASPBERRY PI",
+        "inventario_producto": 12,
+        "precio_producto": 95000.0
+    }
+]
